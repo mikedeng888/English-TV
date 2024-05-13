@@ -1,0 +1,22 @@
+[
+ 
+  {
+    "group": "CHANNEL",
+    "logo": "",
+    "name": "",
+    "title": "CNA",
+    "uris": [
+      "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8"
+    ]
+  },
+  {
+    "group": "CHANNEL",
+    "logo": "",
+    "name": "",
+    "title": "NHK WORLD",
+    "uris": [
+      "https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8"
+    ]
+  }
+ 
+]
